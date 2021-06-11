@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksahu404&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksahu404" /> </p>
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/3a/dc/95/3adc9583542d0b65866ac2778242617d.gif" width="500" height="320" />
 
 - 🌱 I’m currently learning **web technologies**
 
